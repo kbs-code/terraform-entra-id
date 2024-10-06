@@ -1,0 +1,1 @@
+Creates Entra ID users and groups with Terraform.
